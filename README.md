@@ -1,2 +1,8 @@
 # hello-world
-just to try out
+
+
+
+# hello outthere,
+
+This is Fred, I am working with python/pycharm.
+
